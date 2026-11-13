@@ -85,6 +85,7 @@ Then follow that README to place the datasets in Google Drive and run `binary.ip
 │   ├── binary_training_curves.png      # Figure 3
 │   ├── multiclass_confusion_matrix.png # Figure 4
 │   └── multiclass_training_curves.png  # Figure 5
+├── esha_conjunctivitis_ieee.pdf        # draft manuscript (not peer reviewed)
 ├── CITATION.cff
 ├── LICENSE                             # MIT
 └── README.md
