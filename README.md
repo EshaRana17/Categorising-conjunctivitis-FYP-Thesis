@@ -1,5 +1,7 @@
 # Categorising Conjunctivitis from Eye Photographs: Final-Year Project
 
+> **This repository has moved.** The paper, code and figures are now together in **[EshaRana17/Conjunctivitis](https://github.com/EshaRana17/Conjunctivitis)**, which carries this repository's history. This copy is kept for reference only.
+
 **Author:** Esha Sabir · **Supervisor:** Umber Noureen · University of Sahiwal
 
 Undergraduate final-year project (thesis). Research code, not a medical device.
